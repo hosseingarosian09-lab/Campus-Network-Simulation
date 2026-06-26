@@ -26,6 +26,21 @@ The goal was to combine multiple networking technologies into a single working t
 
 ![Topology](topology.png)
 
+#### ping test 
+![ping-success](screenshots/ping-success.png)
+
+#### ospf neighbor 
+![ospf-neighbor](screenshots/ospf-neighbor.png)
+
+#### HSRP 
+![hsrp](screenshots/hsrp.png)
+
+#### Vlan
+![vlan](screenshots/vlan.png)
+
+#### ip routes 
+![ip-route](screenshots/show-ip-route.png)
+
 ---
 
 ## Features
