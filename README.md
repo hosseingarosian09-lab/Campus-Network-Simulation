@@ -1,14 +1,14 @@
-# Campus Network CCNA Lab
+# Campus Network Simulation
 
 ## Overview
 
-This project is a Cisco Packet Tracer campus network built as a CCNA practice lab.
+This project is a hands-on campus network simulation built in Cisco Packet Tracer.
 
-The goal was to combine multiple networking technologies into a single working topology while practicing configuration and troubleshooting.
+The goal was to design, configure, and troubleshoot a small enterprise-style network while applying fundamental networking concepts in a practical environment.
 
 ---
 
-## Technologies Used
+## Concepts & Technologies
 
 - VLAN
 - Trunking (802.1Q)
@@ -52,6 +52,17 @@ The goal was to combine multiple networking technologies into a single working t
 - DHCP Address Assignment
 - End-to-End Connectivity
 - STP Root Bridge Configuration
+
+## What I Learned
+
+- Designing a hierarchical campus network from scratch.
+- Configuring and troubleshooting VLANs and 802.1Q trunk links.
+- Implementing Inter-VLAN Routing for communication between networks.
+- Configuring HSRP to provide gateway redundancy.
+- Using OSPF to dynamically exchange routing information.
+- Setting up DHCP services for automatic IP address assignment.
+- Systematically troubleshooting connectivity issues across the network.
+- Understanding how multiple networking concepts work together in a single topology.
 
 ## Files
 
